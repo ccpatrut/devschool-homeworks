@@ -13,10 +13,10 @@
 * Constructors should initialize cylinders (number of) and name, and set wheels to 4 and engine to true. Cylinders and name would be passed parameters
 * Create appropriate getters
 * show a message for each in the base class
-* Now create 3 sub classes for your favorite vehicles
+* Now create 3 sub classes for your favorite vehicles (like BMW, Opel, etc)
 * Override the appropriate methods demonstrate polymorphism in use 
 
-##OOP principles challenge
+## OOP principles challenge
 
  * The purpose of the application is to help a fictitious company called Bills Burgers to manage their process of selling hamburgers.
  * Your application will help Bill to select types of burgers, some of the additional items (additions) to be added to the burgers and pricing.
