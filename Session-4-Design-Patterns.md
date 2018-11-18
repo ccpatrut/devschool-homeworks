@@ -19,6 +19,6 @@ You are allowed not to use one of the required design patterns with one conditio
 
 Furthermore, since you might be a design pattern addict, you can add one extra! One that you like the most and suits to this case. 
 
-In conclusion your implementation should have at least 5 design patterns and a maximum of 6 from which 4 should be the required ones.
+In conclusion, your implementation should have at least 5 design patterns and a maximum of 6 from which 4 should be the required ones.
 
 Good luck! :) 
